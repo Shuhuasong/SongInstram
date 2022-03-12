@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SongInstram</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">CGTLxHoBzJVLbr1xGYhhN47hMuPcdF2aKFZgnnHS</string>
+    <string name="back4app_client_key">x9bM1S5rHOrVkCB7nda73KfkWAEBw8ujf4mVS75n</string>
+</resources>
